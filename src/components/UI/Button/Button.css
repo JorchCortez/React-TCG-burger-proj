@@ -1,0 +1,19 @@
+.Button:first-of-type{
+    margin-left: 0;
+}
+
+.Button{
+    border: none;
+    padding: 15px;
+    color: white;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+.Success{
+    background: rgb(19, 190, 70)
+}
+
+.Danger{
+    background: rgb(221, 39, 39) 
+}

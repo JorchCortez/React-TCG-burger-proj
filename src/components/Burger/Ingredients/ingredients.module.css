@@ -1,0 +1,75 @@
+.Top_Bread{
+    width: 80%;
+    height: 15%;
+    background: linear-gradient(#ffc06e, #be873f);
+    border-radius: 50px 50px 0 0;
+    box-shadow: inset -15px 0 #ac7834;
+    margin: 2px auto;
+}
+.Bottom_Bread{ 
+    width: 80%;
+    height: 15%;
+    background: linear-gradient(#be873f, #ffc06e);
+    border-radius: 0 0 50px 50px;
+    box-shadow: inset -15px 0 #ac7834;
+    margin: 2px auto;
+}
+
+.salad{ 
+    width: 80%;
+    height: 5%;
+    background: #46b83c;
+    border-radius: 25px;
+    box-shadow: inset -15px 0 #3b9233;
+    margin: 2px auto;
+}
+
+.tomatoe{ 
+    width: 30%;
+    height: 5%;
+    background: #f03232;
+    border-radius: 25px;
+    box-shadow: inset -15px 0 #8a1d1d;
+    margin: 2px auto;
+}
+
+.meat{ 
+    width: 80%;
+    height: 10%;
+    background: #4b2813;
+    border-radius: 25px;
+    box-shadow: inset -15px 0 #29160b;
+    margin: 2px auto;
+}
+.cheese{ 
+    width: 85%;
+    height: 5%;
+    background: #f7bc1b;
+    border-radius: 25px;
+    box-shadow: inset -15px 0 #d39f12;
+    margin: 2px auto;
+}
+.cheddar{ 
+    width: 85%;
+    height: 5%;
+    background: #f1d995;
+    border-radius: 25px;
+    box-shadow: inset -15px 0 #c9b787;
+    margin: 2px auto;
+}
+.beacon{ 
+    width: 80%;
+    height: 5%;
+    background: #942d0e;
+    border-radius: 2px;
+    box-shadow: inset -15px 0 #7c270d;
+    margin: 2px auto;
+}
+.pineaple{ 
+    width: 80%;
+    height: 8%;
+    background: linear-gradient(#8a1d1d, #f7bc1b);
+    border-radius: 5px;
+    box-shadow: inset -15px 0 #3111073b;
+    margin: 2px auto;
+}
